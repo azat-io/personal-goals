@@ -3,6 +3,7 @@
 ### JavaScript
 
 - [ ] [JavaScript Modules for Beginners (ru)](http://webtackles.ru/javascript/js-modules-beginners-guide/)
+- [ ] [A Quick Tour Of ES6 (Or, The Bits You’ll Actually Use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
 
 ### MongoDB
 
@@ -16,6 +17,8 @@
 ### React.js
 
 - [ ] [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.irdmtvjz4)
+- [ ] [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+- [ ] [React.JS for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 
 ### Server
 
