@@ -16,3 +16,9 @@
 - [ ] [Express & Middleware](http://toolsday.io/episodes/express.html)
 - [ ] [Static Site Generators](http://toolsday.io/episodes/static-site-gens.html)
 - [ ] [Unit Testing](http://toolsday.io/episodes/unittesting.html)
+
+### Podcasts to check
+
+- [ ] [The best podcasts for new coders, and the best tools for listening to them](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc)
+- [ ] [NodeUp: A Node.js podcast](http://nodeup.com/ninetyseven)
+- [ ] [JavaScript Jabber](https://devchat.tv/js-jabber)
