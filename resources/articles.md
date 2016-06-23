@@ -22,6 +22,7 @@
 - [ ] [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 - [ ] [React.js Best Practices and Tips by Toptal Developers](https://www.toptal.com/react/tips-and-practices)
 - [ ] [The 16 Most Popular React Links So Far in 2016](https://medium.com/cooper-press/the-18-most-popular-react-links-so-far-in-2016-b3492c0d9f03#.okxtzskg5)
+- [ ] [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 
 ### Server
 
