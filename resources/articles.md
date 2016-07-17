@@ -32,6 +32,11 @@
 
 - [ ] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://sarasoueidan.com/blog/icon-fonts-to-svg/)
 
+### Telegram
+
+- [ ] [Build a Telegram bot using Node and Babel.js, Pt 1](http://qpbp.name/tutorials/2016/07/05/build-telegram-bot-using-es6.html)
+- [ ] [Deploy a Node.js Telegram bot to Heroku, Pt 2](http://qpbp.name/tutorials/2016/07/13/deploying-telegram-bot-to-heroku.html)
+
 ### Testing
 
 - [ ] [Travis-CI: What, Why, How](http://code.tutsplus.com/tutorials/travis-ci-what-why-how--net-34771)
