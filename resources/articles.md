@@ -2,6 +2,7 @@
 
 ### JavaScript
 
+- [ ] [JavScript topics](http://stackoverflow.com/documentation/javascript/topics)
 - [ ] [JavaScript Modules for Beginners (ru)](http://webtackles.ru/javascript/js-modules-beginners-guide/)
 - [ ] [A Quick Tour Of ES6 (Or, The Bits You’ll Actually Use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
 
